@@ -1,0 +1,2 @@
+# LSTMTrader
+LSTM Strategy
